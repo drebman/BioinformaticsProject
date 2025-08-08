@@ -8,22 +8,13 @@ This project focuses on comparing gene lengths between symbiotic bacteria and cl
 
 Bacteria Being Compared
 
-[Uploading | Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
+| Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
 |---|---|---:|---:|
 | Buchnera aphidicola (symb) | `Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta` | 641802 | 26.30 |
 | Wigglesworthia glossinidia (symb) | `wigglesworthia_g_sequence.fasta` | 697724 | 22.48 |
 | Salmonella enterica no75 (symb) | `salmonella_sequence.fasta` | 5032348 | 52.16 |
 | E. coli K-12 MG1655 (free) | `Escherichia coli str. K-12 substr. MG1655.fasta` | 4641652 | 50.79 |
 | Methanosaeta concilii GP-6 (free) | `Methanosaeta concilii GP-6.fasta` | 3008626 | 51.03 |
-genome_stats.md…]()
-
-| Bacterium                         | FASTA Path                                                       | Genome Size (bp) | GC Content (%) |
-| --------------------------------- | ---------------------------------------------------------------- | ---------------: | -------------: |
-| Buchnera aphidicola (symb)        | Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta |           640681 |          26.30 |
-| Wigglesworthia glossinidia (symb) | wigglesworthia\_g\_sequence.fasta                                |           697724 |          22.10 |
-| Salmonella enterica no75 (symb)   | salmonella\_sequence.fasta                                       |          4791967 |          52.10 |
-| E. coli K-12 MG1655 (free)        | Escherichia coli str. K-12 substr. MG1655.fasta                  |          4641652 |          50.80 |
-| Methanosaeta concilii GP-6 (free) | Methanosaeta concilii GP-6.fasta                                 |          2567743 |          52.40 |
 
 Comparison Pairs
 Symbiotic: Buchnera aphidicola str. APS
