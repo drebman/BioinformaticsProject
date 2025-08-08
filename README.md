@@ -86,4 +86,4 @@ Visualization — Matplotlib plots of gene length distributions and possible gen
 
 <ins>Group Members:<ins>
 
-Angela Monsegue, Destiny Rebman, Arham Saed
+Angela Monsegue, Destiny Rebman, Arham Saed, Katya Sizov
