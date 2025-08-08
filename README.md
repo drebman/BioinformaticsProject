@@ -16,6 +16,7 @@ Bacteria Being Compared
 | E. coli K-12 MG1655 (free) | `Escherichia coli str. K-12 substr. MG1655.fasta` | 4641652 | 50.79 |
 | Methanosaeta concilii GP-6 (free) | `Methanosaeta concilii GP-6.fasta` | 3008626 | 51.03 |
 
+
 Comparison Pairs
 Symbiotic: Buchnera aphidicola str. APS
 Free-living counterpart: Escherichia coli str. K-12 MG1655
