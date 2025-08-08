@@ -41,6 +41,16 @@ Wang, R. et al. (2024). Comparative genomic analysis of symbiotic and free-livin
 
 Moran, N.A., & Wernegreen, J.J. (2000). Lifestyle evolution in symbiotic bacteria: insights from genomics. Trends Ecol Evol, 15(8), 321-326. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2bcff42d8c43855bf191da21e817ef8a05c756b1
 
+Methanosaeta Concilli Genome - https://www.ncbi.nlm.nih.gov/nuccore/CP002565.1?report=genbank&log$=seqview
+
+Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA - https://www.ncbi.nlm.nih.gov/nuccore/AP036055.1?report=genbank&log$=seqview
+
+Salmonella enterica strain no75 chromosome, complete genome - https://www.ncbi.nlm.nih.gov/nuccore/NZ_CP075372.1
+
+Escherichia coli str. K-12 substr. MG1655 - https://www.ncbi.nlm.nih.gov/nuccore/U00096.3
+
+Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis DNA, complete genome - https://www.ncbi.nlm.nih.gov/nuccore/BA000021.3?report=genbank&log$=seqview
+
 <ins>Bacteria Being Compared<ins>
 
 | Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
