@@ -2,12 +2,12 @@
 # BioinformaticsProject
 Our project for CSS383
 
-Project 1 Proposal: Are Genes in Symbiotic Bacteria Smaller Than in Free-Living Bacteria?
+<ins>Project 1 Proposal: Are Genes in Symbiotic Bacteria Smaller Than in Free-Living Bacteria?<ins>
 
 Symbiotic bacteria, especially those that live inside host cells, often go through what’s called genome reduction. Basically, they lose a lot of the DNA they don’t need anymore because their environment is stable and predictable. Scientists have known for a while that these bacteria tend to have much smaller genomes overall, but one question that hasn’t been explored as much is whether their individual genes are also getting smaller.
 This project focuses on comparing gene lengths between symbiotic bacteria and closely related free-living ones to see if the symbiotic lifestyle leads to shorter genes. If it does, it might tell us more about how living inside a host affects not just what genes bacteria have, but how those genes are structured.
 
-Background studies:
+<ins>Background studies:<ins>
 
   McCutcheon & Moran (2011) – Found that highly reduced symbiont genomes (e.g., Buchnera, Carsonella) pack genes closely, sometimes with overlaps. While gene length wasn’t directly measured, the patterns suggest shorter genes may be part of the process.
 
@@ -19,13 +19,13 @@ Background studies:
 
   Moran & Bennett (2014) – Reviewed symbiont genome reduction, noting gene loss, drift, and shorter/overlapping genes.
 
-Contrast:
+<ins>Contrast:<ins>
 
   Symbionts may have shorter genes due to relaxed selective pressures and deletion bias.
 
   Free-living bacteria may have shorter genes due to selection for metabolic efficiency.
 
-References:
+<ins>References:<ins>
   Boscaro, V. et al. (2013). Polynucleobacter necessarius, a model for genome reduction in both free-living and symbiotic bacteria. PNAS, 110(46), 18590-18595. https://www.pnas.org/doi/pdf/10.1073/pnas.1316687110
 
   McCutcheon, J.P., & Moran, N.A. (2011). Extreme genome reduction in symbiotic bacteria. Nature Reviews Microbiology, 10(1), 13-26. https://www.nature.com/articles/nrmicro2670
@@ -38,7 +38,7 @@ References:
 
   Moran, N.A., & Wernegreen, J.J. (2000). Lifestyle evolution in symbiotic bacteria: insights from genomics. Trends Ecol Evol, 15(8), 321-326. https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=2bcff42d8c43855bf191da21e817ef8a05c756b1
 
-Bacteria Being Compared
+<ins>Bacteria Being Compared<ins>
 
 | Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
 |---|---|---:|---:|
@@ -48,7 +48,7 @@ Bacteria Being Compared
 | E. coli K-12 MG1655 (free) | `Escherichia coli str. K-12 substr. MG1655.fasta` | 4641652 | 50.79 |
 | Methanosaeta concilii GP-6 (free) | `Methanosaeta concilii GP-6.fasta` | 3008626 | 51.03 |
 
-Comparison Pairs:
+<ins>Comparison Pairs:<ins>
 
   Symbiotic: Buchnera aphidicola str. APS
 Free-living counterpart: Escherichia coli str. K-12 MG1655
@@ -71,7 +71,7 @@ Free-living counterpart: Methanosaeta concilii GP-6
 
   Housekeeping genes will show smaller differences.
 
-Approach:
+<ins>Approach:<ins>
 
   Extract gene lengths from GFF files using Python (Biopython, Pandas).
 
@@ -81,6 +81,6 @@ Approach:
 
   Visualization — Matplotlib plots of gene length distributions and possible genome size trends.
 
-Group Members:
+<ins>Group Members:<ins>
 
   Angela Monsegue, Destiny Rebman, Arham Saed
