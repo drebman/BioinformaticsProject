@@ -1,0 +1,8 @@
+Feature: CDS
+Genome 1 (buchnera): n=582, mean=966.61, median=825.00, IQR=(489.00,1271.25)
+Genome 2 (ecoli): n=4340, mean=927.85, median=822.00, IQR=(479.50,1221.00)
+
+Unpaired comparison (Mann-Whitney U, two-sided normal approx):
+U=1218491.00, z=-1.381, p=0.167
+
+Paired comparison: no shared IDs found across chosen attributes; skipped.
