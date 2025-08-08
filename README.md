@@ -7,6 +7,7 @@ Symbiotic bacteria, especially those that live inside host cells, often go throu
 This project focuses on comparing gene lengths between symbiotic bacteria and closely related free-living ones to see if the symbiotic lifestyle leads to shorter genes. If it does, it might tell us more about how living inside a host affects not just what genes bacteria have, but how those genes are structured.
 
 Bacteria Being Compared
+
 [Uploading | Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
 |---|---|---:|---:|
 | Buchnera aphidicola (symb) | `Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta` | 641802 | 26.30 |
