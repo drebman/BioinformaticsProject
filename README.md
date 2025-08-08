@@ -59,11 +59,11 @@ Free-living counterpart: Salmonella enterica strain no75
   Symbiotic: Salmonella enterica strain no75
 Free-living counterpart: Methanosaeta concilii GP-6
 
-Hypothesis:
+<ins>Hypothesis:<ins>
 
   Symbiotic bacteria have shorter genes than their free-living counterparts due to relaxed selective pressures and deletion bias in stable host environments.
 
-Predictions:
+<ins>Predictions:<ins>
 
   Symbiotic genes will be significantly shorter on average.
 
