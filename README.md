@@ -13,6 +13,8 @@ McCutcheon & Moran (2011) – Found that highly reduced symbiont genomes (e.g., 
 
 Giovannoni et al. (2005) – Studied free-living marine bacteria (Prochlorococcus, Pelagibacter ubique) with small genomes caused by nutrient limitation and strong selection for efficiency, not by relaxed selection.
 
+Moran & Bennett (2014) – Review of ultra-reduced insect symbiont genomes; synthesizes mechanisms of genome erosion (gene loss, drift, deletion bias) and highlights record-small genomes.
+
 Wang et al. (2024) – Compared symbiotic Fluviibacter to free-living relatives. Found symbiont genes averaged 545 bp vs. 943 bp in free-living counterparts. Also observed higher dN/dS ratios in symbionts, indicating genetic drift.
 
 Boscaro et al. (2013) – Examined Polynucleobacter necessarius, showing major gene loss in symbionts, suggesting simplification.
