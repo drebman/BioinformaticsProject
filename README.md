@@ -102,6 +102,8 @@ Statistical analysis — Wilcoxon signed-rank test for paired distributions.
 
 Visualization — Matplotlib plots of gene length distributions and possible genome size trends.
 
+<img width="1760" height="2200" alt="workflow" src="https://github.com/user-attachments/assets/2ca61004-d382-4399-8d49-efbb9ac07ca0" />
+
 <ins>Group Members:<ins>
 
 Angela Monsegue, Destiny Rebman, Arham Saed, Katya Sizov
