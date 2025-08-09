@@ -53,7 +53,8 @@ Wigglesworthia glossinidia endosymbiont of Glossina brevipalpis DNA, complete ge
 
 <ins>Bacteria Being Compared<ins>
 
-[genome_stats.md](https://github.com/user-attachments/files/21696164/genome_stats.md)| Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
+[genome_stats.md](https://github.com/user-attachments/files/21696164/genome_stats.md)
+| Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
 |---|---|---:|---:|
 | Buchnera aphidicola (symb) | `Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta` | 641802 | 26.30 |
 | E. coli K-12 MG1655 (free) | `Escherichia coli str. K-12 substr. MG1655.fasta` | 4641652 | 50.79 |
