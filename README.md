@@ -76,6 +76,10 @@ Free-living counterpart: Salmonella enterica strain no75
 Symbiotic: Chlamydophila pneumoniae
 Free-living counterpart: Isophaera pallida
 
+<img width="1600" height="1200" alt="buchnera_vs_ecoli hist" src="https://github.com/user-attachments/assets/b163c57b-f0d8-42c9-8848-7b05899115d4" />
+<img width="1600" height="1200" alt="cpneumoniae_vs_isosphaera hist" src="https://github.com/user-attachments/assets/3f36d4dd-b6f8-4380-ac00-ac485cd88cf0" />
+<img width="1600" height="1200" alt="wigglesworthia_vs_salmonella hist" src="https://github.com/user-attachments/assets/792ab54b-22a9-40c4-af1b-073b9c8f8855" />
+
 <ins>Hypothesis:<ins>
 
 Symbiotic bacteria have shorter genes than their free-living counterparts due to relaxed selective pressures and deletion bias in stable host environments.
