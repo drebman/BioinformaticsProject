@@ -1,0 +1,8 @@
+Feature: CDS
+Genome 1 (C_pneumoniae_TW183): n=1113, mean=995.39, median=834.00, IQR=(477.00,1308.00)
+Genome 2 (Isosphaera_pallida): n=3690, mean=1251.58, median=1048.50, IQR=(672.00,1521.00)
+
+Unpaired comparison (Mann-Whitney U, two-sided normal approx):
+U=1667584.00, z=-9.517, p=0
+
+Paired comparison: no shared IDs found across chosen attributes; skipped.

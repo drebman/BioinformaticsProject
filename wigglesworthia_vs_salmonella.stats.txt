@@ -1,0 +1,8 @@
+Feature: CDS
+Genome 1 (Wigglesworthia): n=615, mean=986.75, median=861.00, IQR=(547.50,1270.50)
+Genome 2 (Salmonella_no75): n=4871, mean=909.39, median=783.00, IQR=(459.00,1194.00)
+
+Unpaired comparison (Mann-Whitney U, two-sided normal approx):
+U=1354973.00, z=-3.860, p=0.000113
+
+Paired comparison: no shared IDs found across chosen attributes; skipped.
