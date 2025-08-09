@@ -1,8 +1,0 @@
-Feature: CDS
-Genome 1 (salmonella): n=4871, mean=909.39, median=783.00, IQR=(459.00,1194.00)
-Genome 2 (methanosaeta): n=2829, mean=890.73, median=768.00, IQR=(438.00,1158.00)
-
-Unpaired comparison (Mann-Whitney U, two-sided normal approx):
-U=6720712.50, z=-1.800, p=0.0718
-
-Paired comparison: no shared IDs found across chosen attributes; skipped.
