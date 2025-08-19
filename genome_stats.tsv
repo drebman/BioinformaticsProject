@@ -1,0 +1,7 @@
+label	path	genome_size_bp	gc_content_pct
+Buchnera aphidicola (symb)	Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta	641802	26.3041
+E. coli K-12 MG1655 (free)	Escherichia coli str. K-12 substr. MG1655.fasta	4641652	50.7907
+Wigglesworthia glossinidia (symb)	wigglesworthia_g_sequence.fasta	697724	22.4789
+Salmonella enterica no75 (free)	salmonella_sequence.fasta	5032348	52.1605
+Chlamydophila pneumoniae TW-183 (symb)	c_pneumoniae.fasta	1225935	40.5762
+Isosphaera pallida ATCC 43644 (free)	i_pallida.fasta	5472964	62.4441
