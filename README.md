@@ -1,4 +1,3 @@
-[genome_stats.md](https://github.com/user-attachments/files/21696163/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21696162/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21696161/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21696159/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21696157/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21696156/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21696155/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21678285/genome_stats.md)[genome_stats.md](https://github.com/user-attachments/files/21678283/genome_stats.md)
 # BioinformaticsProject
 Our project for CSS383
 
@@ -55,15 +54,15 @@ Chlamydophila pneumoniae TW-183 - https://www.ncbi.nlm.nih.gov/nuccore/AE009440.
 
 <ins>Bacteria Being Compared<ins>
 
-[genome_stats.md](https://github.com/user-attachments/files/21696164/genome_stats.md)
-| Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) |
-|---|---|---:|---:|
-| Buchnera aphidicola (symb) | `Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta` | 641802 | 26.30 |
-| E. coli K-12 MG1655 (free) | `Escherichia coli str. K-12 substr. MG1655.fasta` | 4641652 | 50.79 |
-| Wigglesworthia glossinidia (symb) | `wigglesworthia_g_sequence.fasta` | 697724 | 22.48 |
-| Salmonella enterica no75 (free) | `salmonella_sequence.fasta` | 5032348 | 52.16 |
-| Chlamydophila pneumoniae TW-183 (symb) | `c_pneumoniae.fasta` | 1225935 | 40.58 |
-| Isosphaera pallida ATCC 43644 (free) | `i_pallida.fasta` | 5472964 | 62.44 |
+[genome_stats.md](https://github.com/user-attachments/files/21928801/genome_stats.md)
+| Bacterium | FASTA Path | Genome Size (bp) | GC Content (%) | Genes compared |
+|---|---|---:|---:|---|
+| Buchnera aphidicola (symb) | `Buchnera aphidicola str. APS (Acyrthosiphon pisum) APS DNA.fasta` | 641802 | 26.30 | rpoH |
+| E. coli K-12 MG1655 (free) | `Escherichia coli str. K-12 substr. MG1655.fasta` | 4641652 | 50.79 | rpoH, dnaG |
+| Wigglesworthia glossinidia (symb) | `wigglesworthia_g_sequence.fasta` | 697724 | 22.48 | gltJ, sucA, carB |
+| Salmonella enterica no75 (free) | `salmonella_sequence.fasta` | 5032348 | 52.16 | gltJ, sucA, carB |
+| Chlamydophila pneumoniae TW-183 (symb) | `c_pneumoniae.fasta` | 1225935 | 40.58 | gyrA |
+| Isosphaera pallida ATCC 43644 (free) | `i_pallida.fasta` | 5472964 | 62.44 | gyrA |
 
 <ins>Comparison Pairs:<ins>
 
